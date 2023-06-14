@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		06124FAD2A39B11D003F3B50 /* Scrumdinger_iOStutrial_byAppleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06124FAC2A39B11D003F3B50 /* Scrumdinger_iOStutrial_byAppleApp.swift */; };
-		06124FAF2A39B11D003F3B50 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06124FAE2A39B11D003F3B50 /* ContentView.swift */; };
+		06124FAF2A39B11D003F3B50 /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06124FAE2A39B11D003F3B50 /* MeetingView.swift */; };
 		06124FB12A39B124003F3B50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06124FB02A39B124003F3B50 /* Assets.xcassets */; };
 		06124FB42A39B124003F3B50 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06124FB32A39B124003F3B50 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		06124FA92A39B11D003F3B50 /* Scrumdinger-iOStutrial-byApple.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Scrumdinger-iOStutrial-byApple.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		06124FAC2A39B11D003F3B50 /* Scrumdinger_iOStutrial_byAppleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scrumdinger_iOStutrial_byAppleApp.swift; sourceTree = "<group>"; };
-		06124FAE2A39B11D003F3B50 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		06124FAE2A39B11D003F3B50 /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
 		06124FB02A39B124003F3B50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		06124FB32A39B124003F3B50 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				06124FAC2A39B11D003F3B50 /* Scrumdinger_iOStutrial_byAppleApp.swift */,
-				06124FAE2A39B11D003F3B50 /* ContentView.swift */,
+				06124FAE2A39B11D003F3B50 /* MeetingView.swift */,
 				06124FB02A39B124003F3B50 /* Assets.xcassets */,
 				06124FB22A39B124003F3B50 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				06124FAF2A39B11D003F3B50 /* ContentView.swift in Sources */,
+				06124FAF2A39B11D003F3B50 /* MeetingView.swift in Sources */,
 				06124FAD2A39B11D003F3B50 /* Scrumdinger_iOStutrial_byAppleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
